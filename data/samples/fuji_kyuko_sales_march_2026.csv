@@ -1,0 +1,24 @@
+transaction_id,transaction_date,product_id,product_name,category,quantity,unit_price,total_amount,business_unit
+TXN-20260301-001,2026-03-01 08:30:00,BUS-5TH-01,Mt. Fuji 5th Station Shuttle Bus,Transportation,2,2600.0,5200.0,Fuji Express Bus
+TXN-20260301-002,2026-03-01 09:15:00,FQ-PASS-DAY,Fuji-Q Highland 1-Day Free Pass,Amusement,4,7800.0,31200.0,Fuji-Q Highland
+TXN-20260301-003,2026-03-01 09:45:00,TRAIN-EXP-01,Fujisan View Express Reserved Seat,Transportation,2,4000.0,8000.0,Fujikyu Railway
+TXN-20260301-004,2026-03-01 10:20:00,ROPE-ROUND,Mt. Fuji Panoramic Ropeway Round Trip,Tourism,3,1000.0,3000.0,Fuji Ropeway
+TXN-20260301-005,2026-03-01 11:30:00,BOAT-CRUISE,Lake Kawaguchiko Cruise Ticket,Tourism,2,1200.0,2400.0,Fuji Kanko Boat
+TXN-20260301-006,2026-03-01 12:45:00,FOOD-HOTEL-DIN,Highland Resort Fujiyama Kaiseki Dinner,Food,2,14000.0,28000.0,Highland Resort Hotel
+TXN-20260301-007,2026-03-01 14:10:00,RET-WINE-KOSHU,Yamanashi Koshu Reserve Wine 750ml,Retail,1,3800.0,3800.0,Fujisan Station Souvenir
+TXN-20260301-008,2026-03-01 15:30:00,RET-COOKIE-BOX,Fujiyama Special Cookie Assortment Box,Retail,3,1800.0,5400.0,Fujiyama Onsen Gift
+TXN-20260302-001,2026-03-02 08:50:00,HOTEL-SUITE-01,Mt. Fuji Panoramic View Executive Suite,Hotel,1,68000.0,68000.0,Highland Resort Hotel & Spa
+TXN-20260302-002,2026-03-02 10:10:00,FQ-EXP-ZOKKON,ZOKKON Priority Express Attraction Ticket,Amusement,4,2000.0,8000.0,Fuji-Q Highland
+TXN-20260302-003,2026-03-02 12:00:00,FOOD-HOUTOU-01,Authentic Yamanashi Houtou Noodle Set,Food,4,1650.0,6600.0,Fujikyu Highland Dining
+TXN-20260302-004,2026-03-02 14:00:00,BUS-5TH-01,Mt. Fuji 5th Station Shuttle Bus,Transportation,5,2600.0,13000.0,Fuji Express Bus
+TXN-20260303-001,2026-03-03 09:30:00,FQ-PASS-DAY,Fuji-Q Highland 1-Day Free Pass,Amusement,6,7800.0,46800.0,Fuji-Q Highland
+TXN-20260303-002,2026-03-03 11:15:00,ROPE-ROUND,Mt. Fuji Panoramic Ropeway Round Trip,Tourism,4,1000.0,4000.0,Fuji Ropeway
+TXN-20260303-003,2026-03-03 13:40:00,HOTEL-STD-02,Standard Twin Room - 1 Night,Hotel,2,32000.0,64000.0,Highland Resort Hotel & Spa
+TXN-20260304-001,2026-03-04 10:00:00,RET-WINE-KOSHU,Yamanashi Koshu Reserve Wine 750ml,Retail,2,3800.0,7600.0,Fujisan Station Souvenir
+TXN-20260304-002,2026-03-04 12:30:00,TRAIN-EXP-01,Fujisan View Express Reserved Seat,Transportation,3,4000.0,12000.0,Fujikyu Railway
+TXN-20260304-003,2026-03-04 16:00:00,BOAT-CRUISE,Lake Kawaguchiko Cruise Ticket,Tourism,5,1200.0,6000.0,Fuji Kanko Boat
+TXN-20260305-001,2026-03-05 09:10:00,FQ-PASS-DAY,Fuji-Q Highland 1-Day Free Pass,Amusement,2,7800.0,15600.0,Fuji-Q Highland
+TXN-20260305-002,2026-03-05 15:45:00,FOOD-HOTEL-DIN,Highland Resort Fujiyama Kaiseki Dinner,Food,3,14000.0,42000.0,Highland Resort Hotel
+TXN-20260305-ERR-MATH,2026-03-05 16:20:00,RET-COOKIE-BOX,Fujiyama Special Cookie Assortment Box,Retail,3,1800.0,4500.0,Fujisan Station Souvenir
+TXN-20260301-001,2026-03-05 17:00:00,BUS-5TH-01,Mt. Fuji 5th Station Shuttle Bus,Transportation,1,2600.0,2600.0,Fuji Express Bus
+TXN-20260305-ERR-QTY,2026-03-05 17:30:00,ROPE-ROUND,Mt. Fuji Panoramic Ropeway Round Trip,Tourism,0,1000.0,0.0,Fuji Ropeway
